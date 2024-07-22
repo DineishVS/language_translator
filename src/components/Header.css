@@ -1,0 +1,26 @@
+/* src/components/Header.css */
+
+header {
+    background-color: #0056b3;
+    color: #ffffff;
+    padding: 15px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav .container {
+    max-width: 700px;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+}
